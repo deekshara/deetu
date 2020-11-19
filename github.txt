@@ -1,2 +1,3 @@
 this is my first project
 git hub 
+git commit -m " this is my project"
